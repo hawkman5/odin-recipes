@@ -1,0 +1,2 @@
+#Odin Recipes
+I have decided to start over on the odin project, so that I can review all the concepts I have learned so far before moving into more complicated javascript. This is the first TOP project in their HTML foundations section.
